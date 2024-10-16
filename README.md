@@ -44,3 +44,9 @@ TUGAS INDIVIDU
 2 ; Membuat Project yg telah diberikan
 3 ; Membuat Branch yang berbeda tiap individu, nama branch nya sesuaikan dengan nama aslinya
 4 ; Push Ke Repository
+
+
+SANKSI ;
+Tidak Mengumpulkan Piket selama 5 hari, 
+
+PJ ; Ananda, Afgan, Fathi
