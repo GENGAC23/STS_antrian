@@ -46,7 +46,8 @@ TUGAS INDIVIDU
 4 ; Push Ke Repository
 
 
-SANKSI ;
-Tidak Mengumpulkan Piket selama 5 hari, 
+SANKSI ; Jum'at 18 October 2024, Pukul 23.00
+Tidak Mengumpulkan 
+ Piket selama 5 hari, 
 
 PJ ; Ananda, Afgan, Fathi
