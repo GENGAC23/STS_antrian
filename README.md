@@ -45,6 +45,7 @@ TUGAS INDIVIDU
 3 ; Membuat Branch yang berbeda tiap individu, nama branch nya sesuaikan dengan nama aslinya
 4 ; Push Ke Repository
 
+Jelaskan menggunakan komment klau tidak menggunakan komment silahkan di presentasekan
 
 SANKSI ; Jum'at 18 October 2024, Pukul 23.00
 Tidak Mengumpulkan 
