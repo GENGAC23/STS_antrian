@@ -26,9 +26,9 @@ public class SistemAntrianRestoran {
 
     // Memanggil pelanggan berdasarkan prioritas
     public void panggilPelanggan() {
-        if (antrian.isEmpty()) {4
+        if (antrian.isEmpty()) {
             
-            System.out.println("Antrian kosong!");
+            System.out.println("Antrian kosong!!");
             return;
         }
 
