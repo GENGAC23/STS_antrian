@@ -1,0 +1,24 @@
+ "toko buku online.**  
+ali adalah pengelola toko buku online dia ingin mengelompokkan buku-buku yang dijualnya berdasarkan jenis dan kategori lain.
+Dia memiliki empat kategori utama yang akan dia gunakan untuk mengklasifikasikan bukunya,
+yaitu Fiksi, Non-Fiksi, Edukasi, dan Komik.
+
+Untuk menentukan jenis buku-bukunya berdasrkan kategori nya, Ali membuat aturan berikut:  
+- Apabila buku adalah novel atau cerita pendek, maka buku tersebut dikategorikan sebagai Fiksi.  
+- Apabila buku berisi fakta atau informasi nyata seperti sejarah atau biografi, buku tersebut akan dikategorikan sebagai Non-Fiksi.  
+- Apabila buku berkaitan dengan pelajaran sekolah atau ilmu pengetahuan, buku tersebut akan dikategorikan sebagai Edukasi.  
+- Apabila buku adalah kumpulan komik atau cerita bergambar, buku tersebut akan masuk dalam kategori Komik.
+
+Selain jenis, Ali juga mempertimbangkan harga bukunya:  
+- Apabila harga buku lebih dari 150 ribu rupiah, Ali akan menandai buku tersebut sebagai "populer".  
+- Apabila harga buku di antara 75-150 ribu rupiah, buku tersebut akan diberi label "Sedang".  
+- Apabila harga buku kurang dari 75 ribu rupiah, buku tersebut akan diberi label "Ekonomis".
+
+Terakhir, Ali memperhatikan popularitas penjualan buku:  
+- Apabila buku terjual sebanyak 200 eksemplar atau lebih, Ali akan menandainya sebagai "Best Seller".  
+- Apabila penjualan berada di antara 100-199 eksemplar, Ali akan memberi label "Populer".  
+- Apabila penjualan kurang dari 100 eksemplar, buku tersebut akan diberi label "Standar".
+
+*Tantangan Ali*
+adalah membuat sistem otomatis yang dapat mengategorikan buku berdasarkan jenis, harga, dan popularitas, 
+untuk memudahkan pelanggan menemukan buku yang sesuai dengan preferensi mereka.
