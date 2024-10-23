@@ -62,7 +62,7 @@ public class SistemAntrianRestoran {
         int pilihan;
 
         do {
-            System.out.println("\n❀ Sistem Antrian Restoran Ananda Fairus ❀");
+            System.out.println("\n:) Sistem Antrian Restoran Ananda Fairus (:)");
             System.out.println("1. Tambah Pelanggan");
             System.out.println("2. Panggil Pelanggan");
             System.out.println("3. Lihat Antrian");
